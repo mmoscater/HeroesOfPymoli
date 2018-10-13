@@ -1,4 +1,5 @@
-# HeroesOfPymoli
+# Heroes Of Pymoli 
+## Data Analysis
 
 * Based on the gender demographics, even though males are the majority of players (84%), their average purchase price (\$3.02) and average total purchase per person (\$4.07) are lower than females (\$3.20 and \$4.47, respectively).  
 
